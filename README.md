@@ -1,10 +1,11 @@
 # flutter_dialogflow
 
-A new Flutter project.
+A simple Flutter chat application that is integrated with Dialogflow and can handle both text and voice inputs.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is based on the TechWithSach youtube tutorial series.  
+[Codelab: Build a chatbot and voicebot app using flutter and dialogflow - Ultimate Chatbot Tutorial](https://www.youtube.com/watch?v=4elnjgA7iP8)
 
 A few resources to get you started if this is your first Flutter project:
 
